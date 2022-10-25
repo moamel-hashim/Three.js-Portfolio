@@ -45,3 +45,22 @@ p {
   width: 50%;
   margin: 2rem 0 0 2rem;
 }
+
+img {
+  width: 100%;
+}
+
+.image-container {
+  width: 25%;
+}
+
+.display-flex {
+  display: flex;
+  gap: 2rem;
+  justify-content: end;
+  margin: 2rem 0 0 2rem;
+}
+
+.projects {
+  text-align: end;
+}
