@@ -64,3 +64,10 @@ img {
 .projects {
   text-align: end;
 }
+
+.image-title {
+  font-size: 2vmin;
+  text-align: center;
+  margin: 0 0 1rem 0;
+  width: 100%;
+}
