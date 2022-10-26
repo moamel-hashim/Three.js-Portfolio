@@ -56,9 +56,6 @@ img {
 
 .display-flex {
   display: flex;
-  gap: 2rem;
-  justify-content: end;
-  margin: 2rem 0 0 2rem;
 }
 
 .projects {
@@ -70,4 +67,20 @@ img {
   text-align: center;
   margin: 0 0 1rem 0;
   width: 100%;
+}
+
+.gap {
+  gap: 2rem;
+}
+
+.justify-content-end {
+  justify-content: end;
+}
+
+.margin {
+  margin: 2rem 0 0 2rem;
+}
+
+.align-items {
+  align-items: center;
 }
