@@ -85,5 +85,19 @@ img {
   align-items: center;
 }
 
+@media screen and (max-width: 900px) {
+  .image-container {
+    width: 50%;
+  }
+}
+
+.justify-content-space-evenly {
+  justify-content: space-evenly;
+}
+
+.margin-top {
+  margin: 5rem 0 0 0;
+}
+
 
 /*# sourceMappingURL=main.css.map*/
