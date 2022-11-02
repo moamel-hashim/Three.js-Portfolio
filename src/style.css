@@ -85,7 +85,7 @@ img {
   align-items: center;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (min-width: 800px) {
   .image-container {
     width: 50%;
   }
