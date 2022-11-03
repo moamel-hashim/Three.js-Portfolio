@@ -51,7 +51,7 @@ img {
 }
 
 .image-container {
-  width: 25%;
+  width: 50%;
 }
 
 .display-flex {
@@ -85,9 +85,9 @@ img {
   align-items: center;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (min-width: 900px) {
   .image-container {
-    width: 50%;
+    width: 25%;
   }
 }
 
